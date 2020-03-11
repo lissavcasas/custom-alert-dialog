@@ -4,5 +4,4 @@ A new Flutter project.
 
 Demo video:
 
-![Output sample](https://j.gifs.com/r8vOrw.gif)
-
+<img src="https://j.gifs.com/r8vOrw.gif" width="250">
