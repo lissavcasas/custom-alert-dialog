@@ -4,4 +4,4 @@ A new Flutter project.
 
 Demo video:
 
-<img src="https://j.gifs.com/r8vOrw.gif" width="250">
+<img src="https://media.giphy.com/media/htuleju2iYuIuLjqOb/giphy.gif" width="250">
